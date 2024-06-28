@@ -1,7 +1,7 @@
 #ignore node modules
+# .gitignore
+.env
 
 node_modules/
 imagenes/*
 
-# ignore Local ENV File
-# .env  
