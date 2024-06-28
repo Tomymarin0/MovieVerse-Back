@@ -1,7 +1,9 @@
 #ignore node modules
 # .gitignore
-.env
+git rm -r --cached
 
 node_modules/
 imagenes/*
 
+# ignore Local ENV File
+# .env  
